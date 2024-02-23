@@ -1,0 +1,3 @@
+Este es un ejemplo de texto que puedes utilizar para probar el programa de histograma. 
+Puedes agregar más líneas y caracteres especiales según tus necesidades.
+Recuerda que el programa cuenta la frecuencia de cada carácter en el archivo.
